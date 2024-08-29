@@ -43,4 +43,5 @@ I made up with a friend today, a very beloved friend. I hope to remain friends w
 This is kind of like Twitter but less cool. 
 I think a lot about tropospheric ducting. 
 I think space missions and travel are monuments to industrial precision and scale. 
+When creating coroutines in Unity, think about instead, "Can I set this up as a batchable operation in Update() for my specific class?"
 
