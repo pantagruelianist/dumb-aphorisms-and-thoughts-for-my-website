@@ -46,4 +46,5 @@ I think space missions and travel are monuments to industrial precision and scal
 When creating coroutines in Unity, think about instead, "Can I set this up as a batchable operation in Update() for my specific class?"
 Unity Jobs are generally better if you need a coroutine and a batched operation in update is just too costly. 
 I've come to realize Unity-flavored ECS is not good, best to spin up your own structs and make graphics calls with reference to the meshes, personally. 
+Swagger ain't so bad... I like it... 
 
